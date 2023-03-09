@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../My code"
+		},
+		{
+			"path": "../vscode-basics"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vscode-basics"
+	}
+}
